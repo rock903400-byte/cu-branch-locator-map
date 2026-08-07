@@ -1,5 +1,7 @@
 # 分行據點地圖產生器 (Branch Locator Map)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 > 把 Excel 地址一鍵放上互動地圖
 
 ## 🎯 給誰用
